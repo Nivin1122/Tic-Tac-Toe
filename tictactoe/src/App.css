@@ -38,9 +38,7 @@ body {
 }
 
 
-.cell:hover {
-  background-color: #eaeaea;
-}
+
 
 .square {
   width: 100px;
