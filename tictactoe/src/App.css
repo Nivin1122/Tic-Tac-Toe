@@ -32,7 +32,7 @@ body {
   font-size: 2rem;
   color: #333;
   background-color: #fff;
-  border: 2px solid #ccc; 
+  border: 2px solid #ece3e3; 
   border-radius: 5px; 
   transition: background-color 0.3s ease;
 }
